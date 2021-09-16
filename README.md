@@ -1,13 +1,11 @@
 ### Hi there 👋
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwmd08">
 
 I'm Seung Yeop Oh, a student learning Programming & AI from South korea.
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwmd08">
 - 🌱 I’m currently learning Programming(Python,Java) <br/>
 - 🔎 I'm also interested AI(Machine Learning & Deep Learning)<br/>
 - 💬 Ask me about Basic Programming.(Python,Java)<br/>
-
-
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEUNGYEOPOH/SEUNGYEOPOH.svg)<br/>
