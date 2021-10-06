@@ -16,6 +16,7 @@ I'm Seung Yeop Oh, a student learning Programming & AI from South korea.
 <img src="https://img.shields.io/badge/Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SEUNGYEOPOH)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SEUNGYEOPOH)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![snake gif](https://github.com/SEUNGYEOPOH/SEUNGYEOPOH/blob/output/github-contribution-grid-snake.svg)
 
 
