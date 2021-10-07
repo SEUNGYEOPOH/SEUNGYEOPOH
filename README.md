@@ -20,3 +20,4 @@ I'm Seung Yeop Oh, a student learning Programming & AI from South korea.
 ![snake gif](https://github.com/SEUNGYEOPOH/SEUNGYEOPOH/blob/output/github-contribution-grid-snake.svg)
 
 
+
