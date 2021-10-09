@@ -21,7 +21,7 @@ I'm Seung Yeop Oh, a student learning Programming & AI from South korea.
 
 <div align="center">
   <a href="https://github.com/SEUNGYEOPOH">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEUNGYEOP" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEUNGYEOPOH" />
   </a>
   <a href="https://github.com/SEUNGYEOPOH">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&langs_count=4" />
