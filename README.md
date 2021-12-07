@@ -4,7 +4,7 @@
 
 I'm Seung Yeop Oh, a student learning Programming & AI from South korea.
 - 🌳  I’m currently working on Data Science Lab. <br/>
-- 🌱 I’m currently learning Programming(Python,Java) <br/>
+- 🌱 I’m currently learning Deep Learning <br/>
 - 🔎 I'm also interested AI(Machine Learning & Deep Learning)<br/>
 - 💬 Ask me about Basic Programming.(Python,Java)<br/>
 
