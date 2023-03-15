@@ -9,7 +9,7 @@
 I'm Seung Yeop Oh, a student studying to become a data scientist.
 - 🌱 I’m currently working on Deep Learning(Vision, Time-Series) <br/>
 - 🔎 I'm also interested Explainable Artificial Intelligence(XAI) & Natural Language Processing(NLP)<br/>
-- 💬 Ask me about anything here.<br/>
+- 💬 Ask me about anything <b>[here](https://github.com/SEUNGYEOPOH/SEUNGYEOPOH/issues)</b>.<br/>
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEUNGYEOPOH/SEUNGYEOPOH.svg)<br/>
