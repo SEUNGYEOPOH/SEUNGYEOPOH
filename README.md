@@ -2,11 +2,10 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwmd08">
 
-I'm Seung Yeop Oh, a student learning Programming & AI from South korea.
-- 🌳  I’m currently working on Data Science Lab. <br/>
-- 🌱 I’m currently learning Deep Learning & Back-End <br/>
-- 🔎 I'm also interested Explainable Artificial Intelligence(XAI)<br/>
-- 💬 Ask me about Basic Programming.(Python,Java)<br/>
+I'm Seung Yeop Oh, a student studying to become a data scientist.
+- 🌱 I’m currently working on Deep Learning(Vision, Time-Series) <br/>
+- 🔎 I'm also interested Explainable Artificial Intelligence(XAI) & Natural Language Processing(NLP)<br/>
+- 💬 Ask me about anything here.<br/>
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEUNGYEOPOH/SEUNGYEOPOH.svg)<br/>
