@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Love%20It&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20repository%20&descAlignY=51&descAlign=62)
-
+<div align="center"> <img align='center' height:300 src="docs/test.svg"> </div>
 
 
 ### Hi there 👋
