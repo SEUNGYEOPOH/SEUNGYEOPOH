@@ -52,5 +52,4 @@ I'm Seung Yeop Oh, a student studying to become a data scientist.
 
 ![snake gif](https://github.com/SEUNGYEOPOH/SEUNGYEOPOH/blob/output/github-contribution-grid-snake.svg)  
 
-
-
+![waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&width=100&section=footer)
