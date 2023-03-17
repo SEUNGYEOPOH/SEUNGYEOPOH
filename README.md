@@ -47,6 +47,7 @@ I'm Seung Yeop Oh, a student studying to become a data scientist.
 <a href="https://github.com/SEUNGYEOPOH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 </div>
 
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 
