@@ -34,9 +34,14 @@ I'm Seung Yeop Oh, a student studying to become a data scientist.
 </a> 
   #
   
+![](./profile-3d-contrib/profile-gitblock.svg)
+ 
+ #
   <div align="center">
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwmd08"><br>
-</div>
+<img align='center' src="http://mazandi.herokuapp.com/api?handle=dhwmd08&theme=cold"/>
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwmd08">
+  <br/>
+ </div>
 </div>
 
 
@@ -46,8 +51,6 @@ I'm Seung Yeop Oh, a student studying to become a data scientist.
   <a href="https://github.com/SEUNGYEOPOH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SEUNGYEOPOH&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SEUNGYEOPOH's github stats" /></a>
 <a href="https://github.com/SEUNGYEOPOH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 </div>
-
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 
