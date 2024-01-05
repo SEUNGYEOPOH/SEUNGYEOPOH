@@ -34,7 +34,7 @@ I'm Seung Yeop Oh
 </a> 
   #
   
-![](./profile-3d-contrib/profile-gitblock.svg)
+<!--![](./profile-3d-contrib/profile-gitblock.svg)-->
  
  #
   <div align="center">
@@ -54,6 +54,6 @@ I'm Seung Yeop Oh
 
 
 
-![snake gif](https://github.com/SEUNGYEOPOH/SEUNGYEOPOH/blob/output/github-contribution-grid-snake.svg)  
+<!--![snake gif](https://github.com/SEUNGYEOPOH/SEUNGYEOPOH/blob/output/github-contribution-grid-snake.svg)-->
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&width=100&section=footer)
