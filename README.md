@@ -14,6 +14,7 @@ I'm Seung Yeop Oh
 
 # 
 
+
 <div align="center">
  <a> 
    
@@ -54,6 +55,9 @@ I'm Seung Yeop Oh
 <a href="https://github.com/SEUNGYEOPOH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 </div>
 
+#
+[![GitHub Streak](https://streak-stats.demolab.com?user=SEUNGYEOPOH&theme=tokyonight-duo&card_width=1000)](https://git.io/streak-stats)
+#
 
 
 <!--![snake gif](https://github.com/SEUNGYEOPOH/SEUNGYEOPOH/blob/output/github-contribution-grid-snake.svg)-->
