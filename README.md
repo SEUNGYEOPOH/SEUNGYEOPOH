@@ -1,4 +1,6 @@
-<div align="center"> <img align='center' height:300 src="docs/test.svg"> </div>
+<!--<div align="center"> <img align='center' height:300 src="docs/test.svg"> </div>-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=100&pause=100&color=29D7F7C5&background=44B0FF00&center=true&vCenter=true&random=false&width=2000&height=500&lines=Hello+World%2C+I'm+SEUNGYEOP+OH!)](https://git.io/typing-svg)
 
 #
 
