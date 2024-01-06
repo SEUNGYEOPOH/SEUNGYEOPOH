@@ -50,11 +50,18 @@ I'm Seung Yeop Oh
 </div>
 
 
+
 #
 
+
+
 <div align="center">
-  <a href="https://github.com/SEUNGYEOPOH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SEUNGYEOPOH&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SEUNGYEOPOH's github stats" /></a>
-<a href="https://github.com/SEUNGYEOPOH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+  <a>
+   
+   ![SEUNGYEOPOH's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUNGYEOPOH&show_icons=true&theme=tokyonight)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&layout=compact&theme=tokyonight&card_width=500&line_height=100)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
+
 </div>
 
 #
