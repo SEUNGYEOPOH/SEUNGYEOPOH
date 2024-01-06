@@ -59,7 +59,7 @@ I'm Seung Yeop Oh
   <a>
    
    ![SEUNGYEOPOH's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUNGYEOPOH&show_icons=true&theme=tokyonight)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&layout=compact&theme=tokyonight&card_width=500&line_height=100)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&layout=compact&theme=tokyonight&card_width=450&line_height=100)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 
 </div>
