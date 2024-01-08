@@ -55,8 +55,8 @@ I'm Seung Yeop Oh
 
 
 <div align="center">
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=SEUNGYEOPOH&show_icons=true&theme=tokyonight&card_width=500"/ >
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&layout=compact&theme=tokyonight&card_width=500" >
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=SEUNGYEOPOH&show_icons=true&theme=tokyonight&card_width=300"/ >
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGYEOPOH&layout=compact&theme=tokyonight&card_width=400" >
 </div>
 
 #
