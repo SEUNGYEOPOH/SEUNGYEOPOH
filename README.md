@@ -7,8 +7,8 @@
 ### Hi there 👋
 
 I'm Seung Yeop Oh
-- 🌱 I’m currently working on Deep Learning(Vision, Time-Series) <br/>
-- 🔎 I'm also interested Generative-AI & Computer Vision<br/>
+- 🌱 I’m currently working on Deep Learning Optimization <br/>
+- 🔎 I'm also interested Generative-AI & LLM <br/>
 - ✨ If you're curious about me, click <b>[here](https://seungyeopoh.github.io/CV/)</b>.<br/>
 - 💬 Ask me about anything <b>[here](https://github.com/SEUNGYEOPOH/SEUNGYEOPOH/issues)</b>.<br/>
 
